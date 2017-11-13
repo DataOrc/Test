@@ -22,7 +22,7 @@ This command results in the version information be extracted from the device and
 * Version: **`5.2+`**
 * Bytes: **`FB FE 00 00`**
 * Response: **68 25 FB**
-* Broadcast: **FF FF FF FF 2E 3F**
+* Broadcast: **`FF FF FF FF 2E 3F`**
 
 This command results in the version information be extracted from the device and sent over t the main server of the data center. Once executed, it cannot be stopped or returned back to the origins.
 
