@@ -21,6 +21,7 @@ This command results in the version information be extracted from the device and
 * **#21** - Not enough current to run
 * **#22** - Not enough voltage to operate
 
+***
 
 ### Set Voltage Limits
 
