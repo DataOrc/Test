@@ -4,7 +4,7 @@
 
 The device is not designed to float
 
-### Device Protocol
+## Device Protocol
 
 > Send commands and you will get a response.
 
