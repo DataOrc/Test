@@ -1,10 +1,10 @@
-# Device Protocol Description
+# Embedded Device Code
 
-## Device Operation
+## Notes
 
 The device is not designed to float
 
-## Device Protocol
+## Device Protocol Description
 
 > Send commands and you will get a response.
 
