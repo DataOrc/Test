@@ -17,6 +17,11 @@
 
 This command results in the version information be extracted from the device and sent over t the main server of the data center. Once executed, it cannot be stopped or returned back to the origins.
 
+**Error Codes**
+* **#21** - Not enough current to run
+* **#22** - Not enough voltage to operate
+
+
 ### Set Voltage Limits
 
 * Version: **`5.2+`**
@@ -26,5 +31,3 @@ This command results in the version information be extracted from the device and
 
 This command results in the version information be extracted from the device and sent over t the main server of the data center. Once executed, it cannot be stopped or returned back to the origins.
 
-**Error Codes**
-* Test
