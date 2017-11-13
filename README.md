@@ -19,7 +19,7 @@ This command results in the version information be extracted from the device and
 
 ### Set Voltage Limits
 
-* Version: **`5.2+`*
+* Version: `**5.2+**`
 * Bytes: **`FB FE 00 00`**
 * **Response**: 68 25 FB
 * **Broadcast**: FF FF FF FF 2E 3F
