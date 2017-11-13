@@ -10,17 +10,21 @@ The device is not designed to float
 
 ### Request version information
 
-Be the best coder ever
-
-* **Command**: Get Version
 * **Version**: `5.3+`
 * **Bytes**: `FB FE 00 00`
 * **Response**: 68 25 FB
-* **Broadcast**: FF FF FF FF 'OK'
+* **Broadcast**: FF FF FF FF 2E 3F
 
-**Description**: Very good command!
+This command results in the version information be extracted from the device and sent over t the main server of the data center. Once executed, it cannot be stopped or returned back to the origins.
 
-* Data 1
-* Data 2
-* Data 3
+### Set Voltage Limits
 
+* **Version**: `5.2+`
+* **Bytes**: `FB FE 00 00`
+* **Response**: 68 25 FB
+* **Broadcast**: FF FF FF FF 2E 3F
+
+This command results in the version information be extracted from the device and sent over t the main server of the data center. Once executed, it cannot be stopped or returned back to the origins.
+
+**Error Codes**
+* Test
