@@ -15,7 +15,7 @@
 * **Response**: `68 25 FB`
 * **Broadcast**: `FF FF FF FF 2E 3F`
 
-This command results in the version information be extracted from the device and sent over t the main server of the data center. Once executed, it cannot be stopped or returned back to the origins.
+This command results in the version information be extracted from the device and sent over t the main server of the data center. Once executed, it cannot be stopped or returned back to the originals.
 
 **Error Codes**
 * **#21** - Not enough current to run
